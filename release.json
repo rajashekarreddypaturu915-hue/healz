@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "title": "Healz 1.0.1 is here",
+  "apkUrl": "https://example.com/healz-1.0.1.apk",
+  "notes": [
+    "Improved music playback performance",
+    "Fixed play and pause button behavior",
+    "Improved background playback",
+    "Improved app stability",
+    "General bug fixes and performance improvements"
+  ]
+}
